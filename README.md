@@ -16,6 +16,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
     npx expo start
    ```
 
+
+App Demo Video
+
+https://drive.google.com/file/d/12eINaytqNdB1DUbJHY9_EGnmOfXJJZ5s/view?usp=sharing
+
 In the output, you'll find options to open the app in a
 
 - [development build](https://docs.expo.dev/develop/development-builds/introduction/)
